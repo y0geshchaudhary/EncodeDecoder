@@ -1,0 +1,2 @@
+# EncodeDecoder
+Simple EncodeDecoder utility.
